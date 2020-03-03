@@ -1,7 +1,7 @@
 Advantages of V-model:
 Simple and easy to use.
 Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
-Proactive defect tracking – that is defects are found at early stage.
+Proactive defect tracking â€“ that is defects are found at early stage.
 Avoids the downward flow of the defects.
 Works well for small projects where requirements are easily understood.
 
